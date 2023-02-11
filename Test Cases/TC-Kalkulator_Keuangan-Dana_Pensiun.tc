@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make sure can calculate pension fund in sequis.co.id successfully</description>
+   <name>TC-Kalkulator_Keuangan-Dana_Pensiun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3c2dd62-779f-4ebd-b8e7-988fe0d391d6</testCaseGuid>
+</TestCaseEntity>

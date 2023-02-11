@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>jenisKelamin-female</name>
+   <tag></tag>
+   <elementGuidId>fc17f363-1357-437a-a7f1-e0b0115bf22a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name = 'jenis_kelamin' and @value = 'female']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c410d576-5531-4c88-bbf0-35948989e3a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenis_kelamin</value>
+      <webElementGuid>f6c3c073-45df-4570-a48c-7b4b6fa8f054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>female</value>
+      <webElementGuid>1b863bc5-a791-42da-89d3-6395a09d7f02</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
